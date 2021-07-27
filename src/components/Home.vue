@@ -89,7 +89,7 @@ td {
   padding: 4px;
 }
 th {
-  background-color: rgb(211, 199, 199);
+  background-color: rgb(229, 231, 92);
   height: 50px;
 }
 h1 {
